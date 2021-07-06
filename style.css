@@ -108,3 +108,9 @@ h2{
     border-radius: 20px;
     margin-top: 20px;
 }
+footer{
+    text-align: center;
+    background-color: black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
