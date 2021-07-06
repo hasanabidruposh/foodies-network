@@ -78,7 +78,7 @@ h2{
 #my-recipies{
     text-align: center;
 }
-#recipie-item-1{
+.recipie-item-1{
     width: 25%;
     border-radius: 25px;
     margin-left: 8%;
@@ -89,7 +89,7 @@ h2{
 
 }
 
-#recipie-item-2{
+.recipie-item-2{
     width: 25%;
     border-radius: 25px;
     padding-left: 20px;
@@ -98,7 +98,7 @@ h2{
     box-shadow: 0px 0px 40px rgba(94, 93, 93, 0.267);
 
 }
-#recipie-item-3{
+.recipie-item-3{
     width: 25%;
     border-radius: 25px;
     margin-right: 6%;
@@ -107,7 +107,7 @@ h2{
     box-shadow: 0px 0px 40px rgba(94, 93, 93, 0.267);
 
 }
-#recipie-title{
+.recipie-title{
     margin-bottom:80px;
 }
 .cover-image{
